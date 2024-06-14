@@ -1,6 +1,6 @@
  # Jit Dumper
 
- A CIL method body dumper that gets information from the JIT compiler.
+ A CIL method body dumper that gets information from the JIT compiler..
 
  # Compatibility (Windows Only)
 - .NET Framework 4.8 (x86 and x64) (Tested)
